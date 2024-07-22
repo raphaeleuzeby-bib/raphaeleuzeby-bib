@@ -2,7 +2,7 @@
 
 Ce compte appartient à l'organisation **Michelin**. Il est utilisé principalement pour les projets et contributions liés à l'entreprise.
 
-Pour découvrir mes contributions et projets personnels, veuillez consulter mon compte principal : [Mon vrai compte GitHub]("https://github.com/R4ph3uz/").
+Pour découvrir mes contributions et projets personnels, veuillez consulter mon compte principal : [Mon vrai compte GitHub :  R4ph3uz]("https://github.com/R4ph3uz/").
 
 ---
 
@@ -13,7 +13,7 @@ Pour découvrir mes contributions et projets personnels, veuillez consulter mon 
 
 ## Contact
 
-Pour toute question ou demande d'information, n'hésitez pas à me contacter via mon [compte principal]("https://github.com/R4ph3uz/").
+Pour toute question ou demande d'information, n'hésitez pas à me contacter via mon [compte principal : R4ph3uz]("https://github.com/R4ph3uz/").
 
 ---
 
